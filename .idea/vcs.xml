@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GraalVM10Things/graalvm-ten-things" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Truffle/spring-petclinic" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/graalvm-demos" vcs="Git" />
   </component>
 </project>
