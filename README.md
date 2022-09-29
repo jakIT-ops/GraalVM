@@ -123,6 +123,7 @@ Oracle Cloud (OCI) Monitoring service нь одоо GraalVM Enterprise дээр 
 
 GPU-accelerated сангуудыг одоо байгаа програм хангамжийн стекүүдэд нэгтгэх нь ялангуяа өндөр түвшний скрипт хэл дээр бичигдсэн програмуудын хувьд хэцүү байдаг. Truffle language implementation framework дээр бүтээгдсэн grCUDA нь хөгжүүлэгчдэд GPU болон GraalVM хэл (Python, R, Ruby, JavaScript) хооронд өгөгдлийг үр дүнтэй хуваалцах, GPU цөмүүдийг ажиллуулах боломжийг олгодог.
 
+Test
 
 
 
